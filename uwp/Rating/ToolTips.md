@@ -44,7 +44,7 @@ rating.ShowToolTip = True
 
 ## Tooltip Precision
 
-The number of decimal digits displayed in tooltips is determined by `AutoTooltipPrecision` property. Decimal digits are not possible in Standard precision type and one decimal digit decimal 
+The number of decimal digits displayed in tooltips is determined by `AutoTooltipPrecision` property. Decimal digits are not possible in Standard precision type and one decimal digit decimal
 
 {% tabs %}
 
