@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Syncfusion | Create a preview of the entire content of the Diagram.
-description: How to see the preview of the large Diagrams and to ease navigations within that Diagram?
+title: About UWP Diagram control | Syncfusion
+description: Learn here all about Overview Control support in Syncfusion UWP Diagram (SfDiagram) control and more.
 platform: uwp
 control: SfDiagram
 documentation: ug
 ---
 
-# Overview Control
+# UWP Diagram (SfDiagram) Overview
 
 Overview control is used to display a preview (overall view) of the entire content of a Diagram. This helps you to look overall picture of large Diagram and also to navigate (pan or zoom) to a particular position of the page.
 
